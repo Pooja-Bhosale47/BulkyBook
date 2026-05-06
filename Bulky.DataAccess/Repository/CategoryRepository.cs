@@ -19,10 +19,10 @@ namespace Bulky.DataAccess.Repository
         {
                 _db = db;
         }
-        public void save()
-        {
-            _db.SaveChanges();
-        }
+        //public void save()
+        //{
+        //    _db.SaveChanges();
+        //}
 
         public void update(Category obj)
         {

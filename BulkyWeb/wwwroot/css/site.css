@@ -19,3 +19,6 @@ footer {
 .footer {
     position: relative !important;
 }
+a {
+  color: #0077cc;
+}
